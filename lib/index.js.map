@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../src/index.ts"],"sourcesContent":["const a:string = 'john wwwwwwwick'\nif(process.env.NODE_ENV === 'development'){\n    alert('开发环境')\n}else {\n    alert('生产环境')\n}\n"],"names":["alert"],"mappings":"gXAIIA,MAAM"}
